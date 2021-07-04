@@ -18,6 +18,8 @@ section{
 .half-width img
 {
   width:80%;
+  height:80%;
+  padding-top:60px;
 }
 .link-button
 {
